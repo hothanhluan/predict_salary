@@ -1,0 +1,2156 @@
+[
+  {
+    "id": 1,
+    "name": "090303",
+    "display": "Giáo dục thể chất 1",
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "name": "120301",
+    "display": "Các nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin",
+    "credit": 5
+  },
+  {
+    "id": 3,
+    "name": "100301",
+    "display": "Toán cao cấp 1",
+    "credit": 3
+  },
+  {
+    "id": 4,
+    "name": "050329",
+    "display": "Nhập môn tin học",
+    "credit": 3
+  },
+  {
+    "id": 5,
+    "name": "090301",
+    "display": "Giáo dục quốc phòng",
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "name": "130377",
+    "display": "Tiếng Anh định hướng TOEIC 1",
+    "credit": 6
+  },
+  {
+    "id": 7,
+    "name": "090304",
+    "display": "Giáo dục thể chất 2",
+    "credit": 1
+  },
+  {
+    "id": 8,
+    "name": "120305",
+    "display": "Tư tưởng Hồ Chí Minh",
+    "credit": 2
+  },
+  {
+    "id": 9,
+    "name": "100302",
+    "display": "Toán cao cấp 2",
+    "credit": 3
+  },
+  {
+    "id": 10,
+    "name": "050335",
+    "display": "Toán rời rạc",
+    "credit": 3
+  },
+  {
+    "id": 11,
+    "name": "050315",
+    "display": "Kiến trúc máy tính",
+    "credit": 3
+  },
+  {
+    "id": 12,
+    "name": "050305",
+    "display": "Cơ sở dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 13,
+    "name": "050316",
+    "display": "Kỹ thuật lập trình",
+    "credit": 3
+  },
+  {
+    "id": 14,
+    "name": "130378",
+    "display": "Tiếng Anh định hướng TOEIC 2",
+    "credit": 6
+  },
+  {
+    "id": 15,
+    "name": "050340",
+    "display": "Tin văn phòng",
+    "credit": 3
+  },
+  {
+    "id": 16,
+    "name": "050322",
+    "display": "Mạng máy tính",
+    "credit": 3
+  },
+  {
+    "id": 17,
+    "name": "090305",
+    "display": "Giáo dục thể chất 3",
+    "credit": 1
+  },
+  {
+    "id": 18,
+    "name": "120302",
+    "display": "Đường lối cách mạng Việt Nam",
+    "credit": 3
+  },
+  {
+    "id": 19,
+    "name": "100305",
+    "display": "Xác suất  thống kê",
+    "credit": 2
+  },
+  {
+    "id": 20,
+    "name": "050302",
+    "display": "Cấu trúc dữ liệu và giải thuật",
+    "credit": 3
+  },
+  {
+    "id": 21,
+    "name": "050326",
+    "display": "Nguyên lý hệ điều hành",
+    "credit": 3
+  },
+  {
+    "id": 22,
+    "name": "050314",
+    "display": "Hệ QTCSDL (SQL Server)",
+    "credit": 4
+  },
+  {
+    "id": 23,
+    "name": "050370",
+    "display": "Phương pháp luận sáng tạo",
+    "credit": 2
+  },
+  {
+    "id": 24,
+    "name": "130379",
+    "display": "Tiếng Anh định hướng TOEIC 3",
+    "credit": 6
+  },
+  {
+    "id": 25,
+    "name": "100306",
+    "display": "Phương pháp tính",
+    "credit": 2
+  },
+  {
+    "id": 26,
+    "name": "050320",
+    "display": "Lập trình hướng đối tượng",
+    "credit": 3
+  },
+  {
+    "id": 27,
+    "name": "050310",
+    "display": "Đồ hoạ máy tính",
+    "credit": 3
+  },
+  {
+    "id": 28,
+    "name": "050330",
+    "display": "Phân tích thiết kế hệ thống",
+    "credit": 3
+  },
+  {
+    "id": 29,
+    "name": "050364",
+    "display": "Thiết kế Cơ sở dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 30,
+    "name": "050356",
+    "display": "Lập trình SQL client (MS Access)",
+    "credit": 4
+  },
+  {
+    "id": 31,
+    "name": "090306",
+    "display": "Giáo dục thể chất 4",
+    "credit": 1
+  },
+  {
+    "id": 32,
+    "name": "130380",
+    "display": "Tiếng Anh định hướng TOEIC 4",
+    "credit": 6
+  },
+  {
+    "id": 33,
+    "name": "050311",
+    "display": "Giao diện người - máy",
+    "credit": 3
+  },
+  {
+    "id": 34,
+    "name": "050327",
+    "display": "Nhập môn công nghệ phần mềm",
+    "credit": 3
+  },
+  {
+    "id": 35,
+    "name": "050337",
+    "display": "Trí tuệ nhân tạo",
+    "credit": 3
+  },
+  {
+    "id": 36,
+    "name": "050341",
+    "display": "Tối ưu hoá",
+    "credit": 3
+  },
+  {
+    "id": 37,
+    "name": "090307",
+    "display": "Giáo dục thể chất 5",
+    "credit": 1
+  },
+  {
+    "id": 38,
+    "name": "130381",
+    "display": "Tiếng Anh định hướng TOEIC 5",
+    "credit": 6
+  },
+  {
+    "id": 39,
+    "name": "050373",
+    "display": "Thiết kế web",
+    "credit": 3
+  },
+  {
+    "id": 40,
+    "name": "050304",
+    "display": "Công nghệ XML",
+    "credit": 3
+  },
+  {
+    "id": 41,
+    "name": "050312",
+    "display": "Hệ chuyên gia",
+    "credit": 3
+  },
+  {
+    "id": 42,
+    "name": "050331",
+    "display": "PTTK hướng đối tượng",
+    "credit": 4
+  },
+  {
+    "id": 43,
+    "name": "050332",
+    "display": "Phân tích và thống kê số liệu",
+    "credit": 3
+  },
+  {
+    "id": 44,
+    "name": "050333",
+    "display": "Quản lý các dự án CNTT",
+    "credit": 3
+  },
+  {
+    "id": 45,
+    "name": "050349",
+    "display": "Hệ trợ giúp quyết định",
+    "credit": 3
+  },
+  {
+    "id": 46,
+    "name": "130360",
+    "display": "Tiếng Anh chuyên ngành (HTTT)",
+    "credit": 3
+  },
+  {
+    "id": 47,
+    "name": "050307",
+    "display": "Cơ sở dữ liệu phân tán",
+    "credit": 3
+  },
+  {
+    "id": 48,
+    "name": "050338",
+    "display": "Xử lý ảnh",
+    "credit": 3
+  },
+  {
+    "id": 49,
+    "name": "050347",
+    "display": "Đồ án chuyên ngành HTTT",
+    "credit": 4
+  },
+  {
+    "id": 50,
+    "name": "050357",
+    "display": "Lập trình ứng dụng cơ sở dữ liệu Client/Server",
+    "credit": 4
+  },
+  {
+    "id": 51,
+    "name": "050361",
+    "display": "Phát triển hệ thống doanh nghiệp điện tử (ERP)",
+    "credit": 3
+  },
+  {
+    "id": 52,
+    "name": "050368",
+    "display": "Công nghệ thực tại ảo",
+    "credit": 4
+  },
+  {
+    "id": 53,
+    "name": "050366",
+    "display": "Thực tập tốt nghiệp (HTTT)",
+    "credit": 8
+  },
+  {
+    "id": 54,
+    "name": "050306",
+    "display": "Cơ sở dữ liệu đa phương tiện",
+    "credit": 3
+  },
+  {
+    "id": 55,
+    "name": "050358K6",
+    "display": "Lập trình ứng dụng CSDL trên Web",
+    "credit": 4
+  },
+  {
+    "id": 56,
+    "name": "130339",
+    "display": "Tiếng Anh chuyên ngành (KHMT)",
+    "credit": 3
+  },
+  {
+    "id": 57,
+    "name": "050353",
+    "display": "Khóa luận tốt nghiệp (hoặc học thêm 03 học phần chuyên môn HTTT)",
+    "credit": 7
+  },
+  {
+    "id": 58,
+    "name": "0503127",
+    "display": "Kỹ thuật lập trình",
+    "credit": 3
+  },
+  {
+    "id": 59,
+    "name": "0503130",
+    "display": "Lập trình hướng đối tượng",
+    "credit": 3
+  },
+  {
+    "id": 60,
+    "name": "1003105",
+    "display": "Phương pháp tính",
+    "credit": 2
+  },
+  {
+    "id": 61,
+    "name": "0503141",
+    "display": "Nhập môn Công nghệ phần mềm",
+    "credit": 3
+  },
+  {
+    "id": 62,
+    "name": "0903107",
+    "display": "Giáo dục thể chất 5",
+    "credit": 1
+  },
+  {
+    "id": 63,
+    "name": "0503121",
+    "display": "Hệ chuyên gia",
+    "credit": 3
+  },
+  {
+    "id": 64,
+    "name": "0503137",
+    "display": "Mạng máy tính",
+    "credit": 3
+  },
+  {
+    "id": 65,
+    "name": "0503104",
+    "display": "Công nghệ thực tại ảo",
+    "credit": 3
+  },
+  {
+    "id": 66,
+    "name": "0503134",
+    "display": "Lập trình ứng dụng cơ sở dữ liệu trên Web",
+    "credit": 4
+  },
+  {
+    "id": 67,
+    "name": "0503135",
+    "display": "Lập trình Windows",
+    "credit": 4
+  },
+  {
+    "id": 68,
+    "name": "0903104",
+    "display": "Giáo dục thể chất 2",
+    "credit": 2
+  },
+  {
+    "id": 69,
+    "name": "0503156",
+    "display": "Toán rời rạc",
+    "credit": 3
+  },
+  {
+    "id": 70,
+    "name": "0503105",
+    "display": "Công nghệ XML",
+    "credit": 3
+  },
+  {
+    "id": 71,
+    "name": "1003108",
+    "display": "Toán cao cấp 2A",
+    "credit": 3
+  },
+  {
+    "id": 72,
+    "name": "0503107",
+    "display": "Cơ sở dữ liệu đa phương tiện",
+    "credit": 3
+  },
+  {
+    "id": 73,
+    "name": "0503103",
+    "display": "Cấu trúc dữ liệu và giải thuật",
+    "credit": 3
+  },
+  {
+    "id": 74,
+    "name": "0503116",
+    "display": "Đồ họa máy tính",
+    "credit": 3
+  },
+  {
+    "id": 75,
+    "name": "1203106",
+    "display": "Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin",
+    "credit": 5
+  },
+  {
+    "id": 76,
+    "name": "0503108",
+    "display": "Cơ sở dữ liệu phân tán",
+    "credit": 3
+  },
+  {
+    "id": 77,
+    "name": "1303147",
+    "display": "Tiếng Anh TOEIC 2",
+    "credit": 6
+  },
+  {
+    "id": 78,
+    "name": "0503150",
+    "display": "Phân tích thiết kế hệ thống",
+    "credit": 3
+  },
+  {
+    "id": 79,
+    "name": "130354",
+    "display": "Tiếng Anh 1",
+    "credit": 6
+  },
+  {
+    "id": 80,
+    "name": "0903105",
+    "display": "Giáo dục thể chất 3",
+    "credit": 2
+  },
+  {
+    "id": 81,
+    "name": "0903106",
+    "display": "Giáo dục thể chất 4",
+    "credit": 2
+  },
+  {
+    "id": 82,
+    "name": "050319",
+    "display": "Lập trình  Windows",
+    "credit": 4
+  },
+  {
+    "id": 83,
+    "name": "050308",
+    "display": "Lý thuyết tập thô và ứng dụng",
+    "credit": 3
+  },
+  {
+    "id": 84,
+    "name": "050321",
+    "display": "Lý thuyết mã hoá thông tin",
+    "credit": 3
+  },
+  {
+    "id": 85,
+    "name": "050328",
+    "display": "Nhập môn lý thuyết nhận dạng",
+    "credit": 3
+  },
+  {
+    "id": 86,
+    "name": "050317",
+    "display": "Kỹ thuật truyền dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 87,
+    "name": "050323",
+    "display": "Một số PP TTKH & PMTT",
+    "credit": 3
+  },
+  {
+    "id": 88,
+    "name": "050324",
+    "display": "Một số PP tính toán mềm",
+    "credit": 3
+  },
+  {
+    "id": 89,
+    "name": "050372",
+    "display": "Lập trình windows 2",
+    "credit": 3
+  },
+  {
+    "id": 90,
+    "name": "050336",
+    "display": "Thực tập tốt nghiệp (KHMT)",
+    "credit": 8
+  },
+  {
+    "id": 91,
+    "name": "050360",
+    "display": "Phần mềm mã nguồn mở",
+    "credit": 3
+  },
+  {
+    "id": 92,
+    "name": "050374",
+    "display": "Giải thuật di truyền và ứng dụng",
+    "credit": 4
+  },
+  {
+    "id": 93,
+    "name": "1303141",
+    "display": "Tiếng Anh định hướng TOEIC 2",
+    "credit": 6
+  },
+  {
+    "id": 94,
+    "name": "080348",
+    "display": "Kỹ thuật lập trình (ĐT)",
+    "credit": 3
+  },
+  {
+    "id": 95,
+    "name": "120304",
+    "display": "Pháp luật đại cương",
+    "credit": 2
+  },
+  {
+    "id": 96,
+    "name": "130329",
+    "display": "Tiếng Anh 4",
+    "credit": 6
+  },
+  {
+    "id": 97,
+    "name": "0503138",
+    "display": "Một số phương pháp tính toán khoa học và phần mềm tính toán",
+    "credit": 3
+  },
+  {
+    "id": 98,
+    "name": "1203107",
+    "display": "Pháp luật đại cương",
+    "credit": 2
+  },
+  {
+    "id": 99,
+    "name": "050318",
+    "display": "Đồ án tốt nghiệp",
+    "credit": 7
+  },
+  {
+    "id": 100,
+    "name": "1303131",
+    "display": "Tiếng Anh chuyên ngành (Khối ngành Máy tính và CNTT)",
+    "credit": 3
+  },
+  {
+    "id": 101,
+    "name": "130366",
+    "display": "Tiếng Anh TOEIC 1",
+    "credit": 6
+  },
+  {
+    "id": 102,
+    "name": "0503154",
+    "display": "Tin học văn phòng",
+    "credit": 3
+  },
+  {
+    "id": 103,
+    "name": "0503143",
+    "display": "Nhập môn tin học",
+    "credit": 3
+  },
+  {
+    "id": 104,
+    "name": "080344",
+    "display": "Xử lý tín hiệu số",
+    "credit": 3
+  },
+  {
+    "id": 105,
+    "name": "0803136",
+    "display": "Xử lý số tín hiệu",
+    "credit": 4
+  },
+  {
+    "id": 106,
+    "name": "0503142",
+    "display": "Nhập môn lý thuyết nhận dạng",
+    "credit": 3
+  },
+  {
+    "id": 107,
+    "name": "0503161",
+    "display": "Thiết kế Web",
+    "credit": 3
+  },
+  {
+    "id": 108,
+    "name": "110322",
+    "display": "Kinh tế học đại cương",
+    "credit": 2
+  },
+  {
+    "id": 109,
+    "name": "100313",
+    "display": "Vật lý 1",
+    "credit": 3
+  },
+  {
+    "id": 110,
+    "name": "1603113",
+    "display": "Kinh tế học đại cương",
+    "credit": 2
+  },
+  {
+    "id": 111,
+    "name": "0503136",
+    "display": "Lý thuyết tập thô và ứng dụng",
+    "credit": 3
+  },
+  {
+    "id": 112,
+    "name": "0503123",
+    "display": "Hệ quản trị cơ sở dữ liệu (SQL Server)",
+    "credit": 3
+  },
+  {
+    "id": 113,
+    "name": "1303140",
+    "display": "Tiếng Anh định hướng TOEIC 1",
+    "credit": 6
+  },
+  {
+    "id": 114,
+    "name": "1303146",
+    "display": "Tiếng Anh TOEIC 1",
+    "credit": 6
+  },
+  {
+    "id": 115,
+    "name": "0503140",
+    "display": "Nguyên lý hệ điều hành",
+    "credit": 3
+  },
+  {
+    "id": 116,
+    "name": "1003111",
+    "display": "Xác suất thống kê",
+    "credit": 3
+  },
+  {
+    "id": 117,
+    "name": "050437",
+    "display": "Tối ưu hoá",
+    "credit": 2
+  },
+  {
+    "id": 118,
+    "name": "140304",
+    "display": "Tâm lý học người tiêu dùng",
+    "credit": 2
+  },
+  {
+    "id": 119,
+    "name": "090401",
+    "display": "Giáo dục quốc phòng",
+    "credit": 4
+  },
+  {
+    "id": 120,
+    "name": "0503120",
+    "display": "Giải thuật di truyền và ứng dụng",
+    "credit": 3
+  },
+  {
+    "id": 121,
+    "name": "1203108",
+    "display": "Tư tưởng Hồ Chí Minh",
+    "credit": 2
+  },
+  {
+    "id": 122,
+    "name": "050325",
+    "display": "NNHT và Otomat nâng cao",
+    "credit": 3
+  },
+  {
+    "id": 123,
+    "name": "0503166",
+    "display": "Trí tuệ nhân tạo",
+    "credit": 3
+  },
+  {
+    "id": 124,
+    "name": "110324",
+    "display": "Kinh tế vi mô",
+    "credit": 4
+  },
+  {
+    "id": 125,
+    "name": "100316",
+    "display": "Xác suất thống kê toán",
+    "credit": 3
+  },
+  {
+    "id": 126,
+    "name": "100315",
+    "display": "Quy hoạch tuyến tính (KT)",
+    "credit": 3
+  },
+  {
+    "id": 127,
+    "name": "120307",
+    "display": "Luật kinh tế",
+    "credit": 3
+  },
+  {
+    "id": 128,
+    "name": "110304",
+    "display": "Địa lý kinh tế",
+    "credit": 3
+  },
+  {
+    "id": 129,
+    "name": "110336",
+    "display": "Lý thuyết thống kê",
+    "credit": 3
+  },
+  {
+    "id": 130,
+    "name": "110337",
+    "display": "Marketing căn bản",
+    "credit": 3
+  },
+  {
+    "id": 131,
+    "name": "110392",
+    "display": "Nguyên lý kế toán (KT)",
+    "credit": 4
+  },
+  {
+    "id": 132,
+    "name": "110314",
+    "display": "Kế toán tài chính 1",
+    "credit": 4
+  },
+  {
+    "id": 133,
+    "name": "110354",
+    "display": "Tài chính tiền tệ",
+    "credit": 3
+  },
+  {
+    "id": 134,
+    "name": "110363",
+    "display": "Thống kê doanh nghiệp",
+    "credit": 4
+  },
+  {
+    "id": 135,
+    "name": "110364",
+    "display": "Thuế",
+    "credit": 3
+  },
+  {
+    "id": 136,
+    "name": "110325",
+    "display": "Kinh tế vĩ mô",
+    "credit": 3
+  },
+  {
+    "id": 137,
+    "name": "100303",
+    "display": "Toán cao cấp C1",
+    "credit": 3
+  },
+  {
+    "id": 138,
+    "name": "110315K6",
+    "display": "Kế toán tài chính 2",
+    "credit": 4
+  },
+  {
+    "id": 139,
+    "name": "110353",
+    "display": "Tài chính doanh nghiệp",
+    "credit": 3
+  },
+  {
+    "id": 140,
+    "name": "110369",
+    "display": "Kinh tế lượng",
+    "credit": 3
+  },
+  {
+    "id": 141,
+    "name": "110385",
+    "display": "Tài chính công",
+    "credit": 3
+  },
+  {
+    "id": 142,
+    "name": "110361",
+    "display": "Thanh toán tín dụng quốc tế",
+    "credit": 3
+  },
+  {
+    "id": 143,
+    "name": "110393",
+    "display": "Luật và chuẩn mực kế toán",
+    "credit": 3
+  },
+  {
+    "id": 144,
+    "name": "130338",
+    "display": "Tiếng Anh chuyên ngành (KT)",
+    "credit": 3
+  },
+  {
+    "id": 145,
+    "name": "110320",
+    "display": "Lý thuyết kiểm toán",
+    "credit": 3
+  },
+  {
+    "id": 146,
+    "name": "110312",
+    "display": "Kế toán sự nghiệp",
+    "credit": 4
+  },
+  {
+    "id": 147,
+    "name": "110316K6",
+    "display": "Kế toán tài chính 3",
+    "credit": 4
+  },
+  {
+    "id": 148,
+    "name": "110318",
+    "display": "Kế toán thuế",
+    "credit": 3
+  },
+  {
+    "id": 149,
+    "name": "110365",
+    "display": "Thực tập cơ sở ngành (KT)",
+    "credit": 4
+  },
+  {
+    "id": 150,
+    "name": "1603137",
+    "display": "Quản trị doanh nghiệp",
+    "credit": 3
+  },
+  {
+    "id": 151,
+    "name": "110341",
+    "display": "Phân tích hoạt động kinh tế",
+    "credit": 3
+  },
+  {
+    "id": 152,
+    "name": "110317",
+    "display": "Kế toán tài chính 4",
+    "credit": 4
+  },
+  {
+    "id": 153,
+    "name": "110356",
+    "display": "Tin kế toán",
+    "credit": 3
+  },
+  {
+    "id": 154,
+    "name": "110321",
+    "display": "Kiểm toán tài chính",
+    "credit": 3
+  },
+  {
+    "id": 155,
+    "name": "1603122",
+    "display": "Lý thuyết thống kê",
+    "credit": 3
+  },
+  {
+    "id": 156,
+    "name": "110310K6",
+    "display": "Kế toán quản trị",
+    "credit": 4
+  },
+  {
+    "id": 157,
+    "name": "110308",
+    "display": "Kế toán công ty",
+    "credit": 3
+  },
+  {
+    "id": 158,
+    "name": "110319",
+    "display": "Kế toán thương mại dịch vụ",
+    "credit": 4
+  },
+  {
+    "id": 159,
+    "name": "140303",
+    "display": "Tâm lý học đại cương",
+    "credit": 2
+  },
+  {
+    "id": 160,
+    "name": "110367",
+    "display": "Thực tập tốt nghiệp (KT)",
+    "credit": 8
+  },
+  {
+    "id": 161,
+    "name": "1003107",
+    "display": "Toán cao cấp 1",
+    "credit": 3
+  },
+  {
+    "id": 162,
+    "name": "110305",
+    "display": "Giao tiếp kinh doanh",
+    "credit": 3
+  },
+  {
+    "id": 163,
+    "name": "110344",
+    "display": "Quản trị doanh nghiệp (QTKD)",
+    "credit": 3
+  },
+  {
+    "id": 164,
+    "name": "110362",
+    "display": "Thị trường chứng khoán",
+    "credit": 3
+  },
+  {
+    "id": 165,
+    "name": "110338",
+    "display": "Nguyên lý kế toán",
+    "credit": 3
+  },
+  {
+    "id": 166,
+    "name": "110301",
+    "display": "Chiến lược kinh doanh",
+    "credit": 4
+  },
+  {
+    "id": 167,
+    "name": "110342",
+    "display": "Quản trị chất lượng",
+    "credit": 3
+  },
+  {
+    "id": 168,
+    "name": "160302",
+    "display": "Lập và phân tích dự án đầu tư (QTKD)",
+    "credit": 4
+  },
+  {
+    "id": 169,
+    "name": "110346",
+    "display": "Quản trị Marketing",
+    "credit": 4
+  },
+  {
+    "id": 170,
+    "name": "110359",
+    "display": "Toán tài chính",
+    "credit": 3
+  },
+  {
+    "id": 171,
+    "name": "110373",
+    "display": "Kinh tế bảo hiểm",
+    "credit": 3
+  },
+  {
+    "id": 172,
+    "name": "110357",
+    "display": "Tin quản trị",
+    "credit": 4
+  },
+  {
+    "id": 173,
+    "name": "110340",
+    "display": "Phân tích đầu tư chứng khoán",
+    "credit": 3
+  },
+  {
+    "id": 174,
+    "name": "110347",
+    "display": "Quản trị nhân lực",
+    "credit": 4
+  },
+  {
+    "id": 175,
+    "name": "110348",
+    "display": "Quản trị sản xuất 1",
+    "credit": 3
+  },
+  {
+    "id": 176,
+    "name": "110366",
+    "display": "Thực tập cơ sở ngành (QTKD)",
+    "credit": 4
+  },
+  {
+    "id": 177,
+    "name": "1203104",
+    "display": "Luật kinh tế",
+    "credit": 3
+  },
+  {
+    "id": 178,
+    "name": "1603115",
+    "display": "Kinh tế vi mô",
+    "credit": 4
+  },
+  {
+    "id": 179,
+    "name": "110306",
+    "display": "Kế hoạch doanh nghiệp 1",
+    "credit": 4
+  },
+  {
+    "id": 180,
+    "name": "1603138",
+    "display": "Quản trị học",
+    "credit": 3
+  },
+  {
+    "id": 181,
+    "name": "160301",
+    "display": "Dự toán ngân sách doanh nghiệp (TCNH)",
+    "credit": 4
+  },
+  {
+    "id": 182,
+    "name": "1603156",
+    "display": "Thống kê doanh nghiệp",
+    "credit": 4
+  },
+  {
+    "id": 183,
+    "name": "110349",
+    "display": "Quản trị sản xuất 2",
+    "credit": 3
+  },
+  {
+    "id": 184,
+    "name": "110313",
+    "display": "Kế toán tài chính",
+    "credit": 3
+  },
+  {
+    "id": 185,
+    "name": "110368",
+    "display": "Thực tập tốt nghiệp (QTKD)",
+    "credit": 8
+  },
+  {
+    "id": 186,
+    "name": "050371",
+    "display": "Đảm bảo chất lượng phần mềm",
+    "credit": 4
+  },
+  {
+    "id": 187,
+    "name": "130359",
+    "display": "Tiếng Anh chuyên ngành (CNPM)",
+    "credit": 3
+  },
+  {
+    "id": 188,
+    "name": "050303",
+    "display": "Công cụ và môi trường PTPM",
+    "credit": 3
+  },
+  {
+    "id": 189,
+    "name": "050342",
+    "display": "Chuyên đề 1: Công nghệ thực tại ảo",
+    "credit": 3
+  },
+  {
+    "id": 190,
+    "name": "050343",
+    "display": "Chuyên đề 2: Lập trình nhúng cơ bản",
+    "credit": 3
+  },
+  {
+    "id": 191,
+    "name": "050346",
+    "display": "Đồ án chuyên ngành CNPM",
+    "credit": 4
+  },
+  {
+    "id": 192,
+    "name": "050362",
+    "display": "Phát triển phần mềm theo cấu phần",
+    "credit": 4
+  },
+  {
+    "id": 193,
+    "name": "050354",
+    "display": "Khóa luận tốt nghiệp (hoặc học thêm 03 học phần chuyên môn-CNPM)",
+    "credit": 7
+  },
+  {
+    "id": 194,
+    "name": "050365",
+    "display": "Thực tập tốt nghiệp (CNPM)",
+    "credit": 8
+  },
+  {
+    "id": 195,
+    "name": "050350",
+    "display": "Java và xử lý phân bố",
+    "credit": 3
+  },
+  {
+    "id": 196,
+    "name": "050351K6",
+    "display": "Khai thác dữ liệu (Data Mining)",
+    "credit": 4
+  },
+  {
+    "id": 197,
+    "name": "120303",
+    "display": "Nhập môn logic học",
+    "credit": 2
+  },
+  {
+    "id": 198,
+    "name": "050359",
+    "display": "Lập trình Web",
+    "credit": 3
+  },
+  {
+    "id": 199,
+    "name": "1403133",
+    "display": "Tâm lý học người tiêu dùng",
+    "credit": 2
+  },
+  {
+    "id": 200,
+    "name": "100409",
+    "display": "Phương pháp tính",
+    "credit": 2
+  },
+  {
+    "id": 201,
+    "name": "0903103",
+    "display": "Giáo dục thể chất 1",
+    "credit": 2
+  },
+  {
+    "id": 202,
+    "name": "0503149",
+    "display": "Phần mềm mã nguồn mở",
+    "credit": 3
+  },
+  {
+    "id": 203,
+    "name": "0503139",
+    "display": "Một số phương pháp tính toán mềm",
+    "credit": 3
+  },
+  {
+    "id": 204,
+    "name": "0503126",
+    "display": "Kiến trúc máy tính",
+    "credit": 3
+  },
+  {
+    "id": 205,
+    "name": "0503106",
+    "display": "Cơ sở dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 206,
+    "name": "120406",
+    "display": "Tư tưởng Hồ Chí Minh",
+    "credit": 2
+  },
+  {
+    "id": 207,
+    "name": "0503111",
+    "display": "Đảm bảo chất lượng phần mềm",
+    "credit": 4
+  },
+  {
+    "id": 208,
+    "name": "0503147",
+    "display": "Phát triển phần mềm theo cấu phần",
+    "credit": 3
+  },
+  {
+    "id": 209,
+    "name": "0503157",
+    "display": "Tối ưu hoá",
+    "credit": 3
+  },
+  {
+    "id": 210,
+    "name": "130355",
+    "display": "Tiếng Anh 2",
+    "credit": 6
+  },
+  {
+    "id": 211,
+    "name": "1203101",
+    "display": "Đường lối cách mạng của Đảng Cộng sản Việt Nam",
+    "credit": 3
+  },
+  {
+    "id": 212,
+    "name": "110343",
+    "display": "Quản trị doanh nghiệp",
+    "credit": 2
+  },
+  {
+    "id": 213,
+    "name": "059316",
+    "display": "Nhập môn tin học (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 214,
+    "name": "139301",
+    "display": "Tiếng Anh CLC 1",
+    "credit": 8
+  },
+  {
+    "id": 215,
+    "name": "059304",
+    "display": "Cơ sở dữ liệu (CT CLC)",
+    "credit": 4
+  },
+  {
+    "id": 216,
+    "name": "139302",
+    "display": "Tiếng Anh CLC 2",
+    "credit": 8
+  },
+  {
+    "id": 217,
+    "name": "139303",
+    "display": "Tiếng Anh CLC 3",
+    "credit": 7
+  },
+  {
+    "id": 218,
+    "name": "139304",
+    "display": "Tiếng Anh CLC 4",
+    "credit": 7
+  },
+  {
+    "id": 219,
+    "name": "059310",
+    "display": "Lập trình hướng đối tượng (Java - CT CLC)",
+    "credit": 4
+  },
+  {
+    "id": 220,
+    "name": "059309",
+    "display": "Lập trình  Windows 1 (CT CLC)",
+    "credit": 4
+  },
+  {
+    "id": 221,
+    "name": "130356",
+    "display": "Tiếng Anh 3",
+    "credit": 6
+  },
+  {
+    "id": 222,
+    "name": "0503110",
+    "display": "Cơ sở lập trình nhúng",
+    "credit": 3
+  },
+  {
+    "id": 223,
+    "name": "0504154",
+    "display": "Tin học văn phòng",
+    "credit": 3
+  },
+  {
+    "id": 224,
+    "name": "1303148",
+    "display": "Tiếng Anh TOEIC 3",
+    "credit": 3
+  },
+  {
+    "id": 225,
+    "name": "0503164",
+    "display": "Thực tập tốt nghiệp (Ngành Khoa học máy tính)",
+    "credit": 8
+  },
+  {
+    "id": 226,
+    "name": "0503167",
+    "display": "Xử lý ảnh",
+    "credit": 3
+  },
+  {
+    "id": 227,
+    "name": "0503129",
+    "display": "Lập trình căn bản",
+    "credit": 3
+  },
+  {
+    "id": 228,
+    "name": "0503152",
+    "display": "Quản lý các dự án công nghệ thông tin",
+    "credit": 2
+  },
+  {
+    "id": 229,
+    "name": "0503151",
+    "display": "Phân tích và thống kê số liệu",
+    "credit": 3
+  },
+  {
+    "id": 230,
+    "name": "0503163",
+    "display": "Thực tập tốt nghiệp (Ngành Kỹ thuật phần mềm)",
+    "credit": 8
+  },
+  {
+    "id": 231,
+    "name": "120402",
+    "display": "Đường lối cách mạng Việt Nam",
+    "credit": 3
+  },
+  {
+    "id": 232,
+    "name": "100402",
+    "display": "Toán cao cấp 2",
+    "credit": 3
+  },
+  {
+    "id": 233,
+    "name": "130330",
+    "display": "Tiếng Anh 5",
+    "credit": 6
+  },
+  {
+    "id": 234,
+    "name": "0503128",
+    "display": "Kho dữ liệu và các phương pháp khai phá",
+    "credit": 4
+  },
+  {
+    "id": 235,
+    "name": "0903101",
+    "display": "Công tác quốc phòng, an ninh",
+    "credit": 2
+  },
+  {
+    "id": 236,
+    "name": "0903102",
+    "display": "Đường lối quân sự của Đảng",
+    "credit": 3
+  },
+  {
+    "id": 237,
+    "name": "0903108",
+    "display": "Quân sự chung và chiến thuật, kỹ thuật bắn súng tiểu liên AK (CKC)",
+    "credit": 3
+  },
+  {
+    "id": 238,
+    "name": "1003110",
+    "display": "Vật lý",
+    "credit": 4
+  },
+  {
+    "id": 239,
+    "name": "1403114",
+    "display": "Kỹ năng giao tiếp",
+    "credit": 2
+  },
+  {
+    "id": 240,
+    "name": "0503159",
+    "display": "Thiết kế cơ sở dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 241,
+    "name": "0503117",
+    "display": "Đồ họa ứng dụng",
+    "credit": 3
+  },
+  {
+    "id": 242,
+    "name": "0503125",
+    "display": "Kiểm thử phần mềm",
+    "credit": 3
+  },
+  {
+    "id": 243,
+    "name": "0503122",
+    "display": "Hệ hỗ trợ quyết định",
+    "credit": 3
+  },
+  {
+    "id": 244,
+    "name": "0503162",
+    "display": "Thực tập tốt nghiệp (Ngành Hệ thống thông tin)",
+    "credit": 8
+  },
+  {
+    "id": 245,
+    "name": "1003109",
+    "display": "Toán cao cấp 2C",
+    "credit": 3
+  },
+  {
+    "id": 246,
+    "name": "0503153",
+    "display": "Quản trị mạng",
+    "credit": 3
+  },
+  {
+    "id": 247,
+    "name": "1303127",
+    "display": "Tiếng Anh cơ bản 1",
+    "credit": 6
+  },
+  {
+    "id": 248,
+    "name": "1303128",
+    "display": "Tiếng Anh cơ bản 2",
+    "credit": 6
+  },
+  {
+    "id": 249,
+    "name": "1303142",
+    "display": "Tiếng Anh 1",
+    "credit": 6
+  },
+  {
+    "id": 250,
+    "name": "1303143",
+    "display": "Tiếng Anh 2",
+    "credit": 6
+  },
+  {
+    "id": 251,
+    "name": "1303144",
+    "display": "Tiếng Anh 3",
+    "credit": 3
+  },
+  {
+    "id": 252,
+    "name": "0503113",
+    "display": "Đồ án/ khóa luận tốt nghiệp (Ngành Hệ thống thông tin)",
+    "credit": 7
+  },
+  {
+    "id": 253,
+    "name": "0503115",
+    "display": "Đồ án/ khóa luận tốt nghiệp (Ngành Khoa học máy tính)",
+    "credit": 7
+  },
+  {
+    "id": 254,
+    "name": "160305",
+    "display": "Nghiệp vụ tín dụng ngân hàng thương mại",
+    "credit": 4
+  },
+  {
+    "id": 255,
+    "name": "0503158",
+    "display": "Tương tác người máy",
+    "credit": 3
+  },
+  {
+    "id": 256,
+    "name": "090403",
+    "display": "Giáo dục thể chất 1",
+    "credit": 1
+  },
+  {
+    "id": 257,
+    "name": "1004107",
+    "display": "Toán cao cấp 1",
+    "credit": 3
+  },
+  {
+    "id": 258,
+    "name": "0503102",
+    "display": "Các phương pháp mô hình hóa",
+    "credit": 3
+  },
+  {
+    "id": 259,
+    "name": "0503145",
+    "display": "Phát triển phần mềm hướng dịch vụ",
+    "credit": 4
+  },
+  {
+    "id": 260,
+    "name": "0503109",
+    "display": "Cơ sở dữ liệu thương mại điện tử",
+    "credit": 3
+  },
+  {
+    "id": 261,
+    "name": "0503114",
+    "display": "Đồ án/ khóa luận tốt nghiệp (Ngành Kỹ thuật phần mềm)",
+    "credit": 7
+  },
+  {
+    "id": 262,
+    "name": "0503146",
+    "display": "Phát triển phần mềm hướng FrameWork",
+    "credit": 3
+  },
+  {
+    "id": 263,
+    "name": "0503148",
+    "display": "Phát triển ứng dụng trên thiết bị di động",
+    "credit": 4
+  },
+  {
+    "id": 264,
+    "name": "1003106",
+    "display": "Quy hoạch tuyến tính",
+    "credit": 2
+  },
+  {
+    "id": 265,
+    "name": "0503132",
+    "display": "Lập trình nhúng",
+    "credit": 3
+  },
+  {
+    "id": 266,
+    "name": "0503155",
+    "display": "Tính toán song song và phân tán",
+    "credit": 3
+  },
+  {
+    "id": 267,
+    "name": "0703193",
+    "display": "Vi mạch tương tự và vi mạch số",
+    "credit": 3
+  },
+  {
+    "id": 268,
+    "name": "0703144",
+    "display": "Khí cụ điện",
+    "credit": 2
+  },
+  {
+    "id": 269,
+    "name": "0703191",
+    "display": "Vật liệu điện, điện tử",
+    "credit": 2
+  },
+  {
+    "id": 270,
+    "name": "0803111",
+    "display": "Kỹ thuật điện tử",
+    "credit": 3
+  },
+  {
+    "id": 271,
+    "name": "0503112",
+    "display": "Điện toán đám mây",
+    "credit": 3
+  },
+  {
+    "id": 272,
+    "name": "210301",
+    "display": "Căn bản về Công nghệ thông tin 1",
+    "credit": 3
+  },
+  {
+    "id": 273,
+    "name": "210306",
+    "display": "Thiết kế đồ họa 2 chiều (NC3_KT1)",
+    "credit": 4
+  },
+  {
+    "id": 274,
+    "name": "210311",
+    "display": "Xử lý văn bản nâng cao (NC1) và sử dụng bảng tính nâng cao (NC2)",
+    "credit": 4
+  },
+  {
+    "id": 275,
+    "name": "0503170",
+    "display": "Kỹ thuật số",
+    "credit": 3
+  },
+  {
+    "id": 276,
+    "name": "1003103",
+    "display": "Lý thuyết xác suất",
+    "credit": 2
+  },
+  {
+    "id": 277,
+    "name": "0903111",
+    "display": "Giáo dục thể chất 1.",
+    "credit": 1
+  },
+  {
+    "id": 278,
+    "name": "0903112",
+    "display": "Giáo dục thể chất 2.",
+    "credit": 1
+  },
+  {
+    "id": 279,
+    "name": "0903121",
+    "display": "Karate 1",
+    "credit": 1
+  },
+  {
+    "id": 280,
+    "name": "0903115",
+    "display": "Bóng chuyền 1",
+    "credit": 1
+  },
+  {
+    "id": 281,
+    "name": "0903119",
+    "display": "Cầu mây",
+    "credit": 1
+  },
+  {
+    "id": 282,
+    "name": "0503175",
+    "display": "Lập trình Java",
+    "credit": 4
+  },
+  {
+    "id": 283,
+    "name": "0903116",
+    "display": "Bóng chuyền 2",
+    "credit": 1
+  },
+  {
+    "id": 284,
+    "name": "0903125",
+    "display": "Pencak Silat 1",
+    "credit": 1
+  },
+  {
+    "id": 285,
+    "name": "0903113",
+    "display": "Aerobic 1",
+    "credit": 1
+  },
+  {
+    "id": 286,
+    "name": "A2",
+    "display": "Anh B",
+    "credit": 8
+  },
+  {
+    "id": 287,
+    "name": "A3",
+    "display": "Anh C",
+    "credit": 8
+  },
+  {
+    "id": 288,
+    "name": "090302",
+    "display": "Giáo dục thể chất",
+    "credit": 1
+  },
+  {
+    "id": 289,
+    "name": "050301",
+    "display": "An toàn và bảo mật thông tin",
+    "credit": 3
+  },
+  {
+    "id": 290,
+    "name": "130366K3",
+    "display": "Tiếng Anh TOEIC 1 (K3)",
+    "credit": 4
+  },
+  {
+    "id": 291,
+    "name": "130367K3",
+    "display": "Tiếng Anh TOEIC 2 (K3)",
+    "credit": 4
+  },
+  {
+    "id": 292,
+    "name": "050309",
+    "display": "Giải thuật di truyền và ứng dụng",
+    "credit": 3
+  },
+  {
+    "id": 293,
+    "name": "100310",
+    "display": "Toán Ứng dụng 1",
+    "credit": 3
+  },
+  {
+    "id": 294,
+    "name": "050402",
+    "display": "Cấu trúc dữ liệu và giải thuật",
+    "credit": 3
+  },
+  {
+    "id": 295,
+    "name": "050334",
+    "display": "Tính toán song song & phân tán",
+    "credit": 3
+  },
+  {
+    "id": 296,
+    "name": "030320",
+    "display": "Hoá học 1",
+    "credit": 3
+  },
+  {
+    "id": 297,
+    "name": "100311",
+    "display": "Toán Ứng dụng 2",
+    "credit": 3
+  },
+  {
+    "id": 298,
+    "name": "130329K3",
+    "display": "Tiếng Anh cơ bản 1",
+    "credit": 4
+  },
+  {
+    "id": 299,
+    "name": "130330K3",
+    "display": "Tiếng Anh cơ bản 2",
+    "credit": 4
+  },
+  {
+    "id": 300,
+    "name": "120401",
+    "display": "Các nguyên lý cơ bản của chủ nghĩa Mác - Lê Nin",
+    "credit": 5
+  },
+  {
+    "id": 301,
+    "name": "130334",
+    "display": "Tiếng Anh chuyên ngành (ĐT)",
+    "credit": 3
+  },
+  {
+    "id": 302,
+    "name": "050409",
+    "display": "Giao diện người - máy",
+    "credit": 3
+  },
+  {
+    "id": 303,
+    "name": "050414",
+    "display": "Kiến trúc máy tính",
+    "credit": 3
+  },
+  {
+    "id": 304,
+    "name": "A1",
+    "display": "Anh A",
+    "credit": 6
+  },
+  {
+    "id": 305,
+    "name": "050403",
+    "display": "Cơ sở dữ liệu",
+    "credit": 3
+  },
+  {
+    "id": 306,
+    "name": "130367",
+    "display": "Tiếng Anh TOEIC 2",
+    "credit": 6
+  },
+  {
+    "id": 307,
+    "name": "050344",
+    "display": "Cơ sở dữ liệu phân tán và suy diễn",
+    "credit": 3
+  },
+  {
+    "id": 308,
+    "name": "050358",
+    "display": "Lập trình ứng dụng CSDL trên Web",
+    "credit": 3
+  },
+  {
+    "id": 309,
+    "name": "050352",
+    "display": "Kho dữ liệu và các phương pháp khai phá",
+    "credit": 3
+  },
+  {
+    "id": 310,
+    "name": "130452",
+    "display": "Tiếng Anh 2",
+    "credit": 6
+  },
+  {
+    "id": 311,
+    "name": "110420",
+    "display": "Kinh tế học đại cương",
+    "credit": 2
+  },
+  {
+    "id": 312,
+    "name": "050355",
+    "display": "Công nghệ phần mềm nâng cao",
+    "credit": 4
+  },
+  {
+    "id": 313,
+    "name": "050351",
+    "display": "Khai thác dữ liệu (Data Mining)",
+    "credit": 3
+  },
+  {
+    "id": 314,
+    "name": "010348",
+    "display": "Vẽ kỹ thuật",
+    "credit": 2
+  },
+  {
+    "id": 315,
+    "name": "080306",
+    "display": "Điện tử cơ bản",
+    "credit": 4
+  },
+  {
+    "id": 316,
+    "name": "070378",
+    "display": "Kỹ thuật vi xử lý và vi điều khiển",
+    "credit": 4
+  },
+  {
+    "id": 317,
+    "name": "070360",
+    "display": "Truyền động điện",
+    "credit": 4
+  },
+  {
+    "id": 318,
+    "name": "070368",
+    "display": "Điều khiển logic",
+    "credit": 3
+  },
+  {
+    "id": 319,
+    "name": "070372",
+    "display": "Điều khiển số và Các hệ thống rời rạc",
+    "credit": 3
+  },
+  {
+    "id": 320,
+    "name": "070373",
+    "display": "Điều khiển tối ưu và Điều khiển mờ",
+    "credit": 3
+  },
+  {
+    "id": 321,
+    "name": "070394",
+    "display": "Vi mạch tương tự và vi mạch số",
+    "credit": 3
+  },
+  {
+    "id": 322,
+    "name": "070364",
+    "display": "Vật liệu điện và an toàn điện",
+    "credit": 3
+  },
+  {
+    "id": 323,
+    "name": "070358",
+    "display": "Trang bị điện 1",
+    "credit": 4
+  },
+  {
+    "id": 324,
+    "name": "070329",
+    "display": "Mạch điện 1",
+    "credit": 3
+  },
+  {
+    "id": 325,
+    "name": "070328",
+    "display": "Lý thuyết điều khiển tự động",
+    "credit": 3
+  },
+  {
+    "id": 326,
+    "name": "070330",
+    "display": "Mạch điện 2",
+    "credit": 3
+  },
+  {
+    "id": 327,
+    "name": "070367",
+    "display": "Điện tử công suất",
+    "credit": 3
+  },
+  {
+    "id": 328,
+    "name": "070308",
+    "display": "Đo lường và cảm biến",
+    "credit": 4
+  },
+  {
+    "id": 329,
+    "name": "070370",
+    "display": "Cơ sở kỹ thuật thủy khí",
+    "credit": 2
+  },
+  {
+    "id": 330,
+    "name": "070380",
+    "display": "Máy điện và Khí cụ điện",
+    "credit": 5
+  },
+  {
+    "id": 331,
+    "name": "070392",
+    "display": "Tín hiệu và hệ thống",
+    "credit": 2
+  },
+  {
+    "id": 332,
+    "name": "070316",
+    "display": "Kỹ thuật Rô bốt",
+    "credit": 3
+  },
+  {
+    "id": 333,
+    "name": "070374",
+    "display": "Đồ án học phần 1 và 2 ( ĐTCS -Truyền động điện)",
+    "credit": 3
+  },
+  {
+    "id": 334,
+    "name": "070390",
+    "display": "Thực tập truyền động điện (TĐH)",
+    "credit": 2
+  },
+  {
+    "id": 335,
+    "name": "130364",
+    "display": "Tiếng Anh chuyên ngành (TĐH)",
+    "credit": 3
+  },
+  {
+    "id": 336,
+    "name": "570311",
+    "display": "Điều khiển PLC và  khí nén",
+    "credit": 4
+  },
+  {
+    "id": 337,
+    "name": "050369",
+    "display": "Kỹ thuật lập trình C/C++",
+    "credit": 3
+  },
+  {
+    "id": 338,
+    "name": "070386",
+    "display": "Thực tập máy điện",
+    "credit": 3
+  },
+  {
+    "id": 339,
+    "name": "070391",
+    "display": "Thực tập vi điều khiển",
+    "credit": 2
+  },
+  {
+    "id": 340,
+    "name": "070376",
+    "display": "Hệ thống  SCADA , DCS và Mạng truyền thông công nghiệp",
+    "credit": 3
+  },
+  {
+    "id": 341,
+    "name": "070375",
+    "display": "Đồ án học phần 3 và 4 (VXL,VĐK,SCADA)",
+    "credit": 3
+  },
+  {
+    "id": 342,
+    "name": "070302",
+    "display": "Cung cấp điện",
+    "credit": 4
+  },
+  {
+    "id": 343,
+    "name": "070383",
+    "display": "Thực tập điều khiển logic khả trình",
+    "credit": 2
+  },
+  {
+    "id": 344,
+    "name": "070388",
+    "display": "Thực tập thiết bị điều khiển điện",
+    "credit": 3
+  },
+  {
+    "id": 345,
+    "name": "070389",
+    "display": "Thực tập tốt nghiệp (TĐH)",
+    "credit": 8
+  },
+  {
+    "id": 346,
+    "name": "070385",
+    "display": "Thực tập điện tử công suất",
+    "credit": 2
+  },
+  {
+    "id": 347,
+    "name": "570312",
+    "display": "Đồ án điều khiển logic",
+    "credit": 2
+  },
+  {
+    "id": 348,
+    "name": "070359",
+    "display": "Trang bị điện 2",
+    "credit": 3
+  },
+  {
+    "id": 349,
+    "name": "010438",
+    "display": "Sức bền vật liệu",
+    "credit": 3
+  },
+  {
+    "id": 350,
+    "name": "050436",
+    "display": "Tin văn phòng",
+    "credit": 3
+  },
+  {
+    "id": 351,
+    "name": "059307",
+    "display": "Design Patterns (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 352,
+    "name": "059308",
+    "display": "Kỹ năng mềm",
+    "credit": 2
+  },
+  {
+    "id": 353,
+    "name": "059306",
+    "display": "Đảm bảo chất lương phần mềm",
+    "credit": 3
+  },
+  {
+    "id": 354,
+    "name": "059312",
+    "display": "Lập trình mobile trên android (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 355,
+    "name": "059313",
+    "display": "Lập trình với hibernate (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 356,
+    "name": "059314",
+    "display": "Lập trình Window 2 (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 357,
+    "name": "059302",
+    "display": "Công nghệ portal (CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 358,
+    "name": "059311",
+    "display": "Lập trình mạng (Java - CT CLC)",
+    "credit": 3
+  },
+  {
+    "id": 359,
+    "name": "059317",
+    "display": "Phát triển phần mềm theo cấu phần (CT CLC)",
+    "credit": 3
+  }
+]
